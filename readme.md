@@ -5,3 +5,7 @@
 # [다운로드 서브라임](https://www.sublimetext.com/download_thanks?target=win-x64)
 
 # [클론 레포](https://github.com/Zzajang-bro/python-codebucket-20230804/archive/refs/heads/main.zip)
+
+> 규칙
+> 웬만하면 폴더 만들지 말자
+> 웬만하면 JSON 쓰자
