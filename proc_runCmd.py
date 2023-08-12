@@ -4,7 +4,7 @@ try:
 	import sys
 
 	def proc_runCmd( cmdList ):
-		print(f'runCmd: {cmdList}')
+		# print(f'runCmd: {cmdList}')
 		subprocess.Popen(cmdList, stdout=sys.stdout, stderr=sys.stdout)
 
 except:
